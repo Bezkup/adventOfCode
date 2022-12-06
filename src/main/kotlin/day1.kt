@@ -1,4 +1,4 @@
-package main.kotlin.day1
+package main.kotlin
 
 import readInput
 
