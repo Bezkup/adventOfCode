@@ -34,7 +34,7 @@ fun main() {
         return firstElf + secondElf + thirdElf
     }
 
-    val input = readInput("day1")
+    val input = readInput("_2022/day1")
     println(part1(input))
     println(part2(input))
 }

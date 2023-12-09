@@ -42,7 +42,7 @@ fun main(){
         return count
     }
 
-    val input = readInput("day3")
+    val input = readInput("_2022/day3")
     println(part1(input))
     println(part2(input))
 }

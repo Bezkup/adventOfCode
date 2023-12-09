@@ -29,7 +29,7 @@ fun main(){
             .count { it.first.intersect(it.second).isNotEmpty() }
     }
 
-    val input = readInput("day4")
+    val input = readInput("_2022/day4")
     val inputTest = readInput("test")
 //    check(part1(inputTest) == 2)
     println(part1(input))
